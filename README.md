@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-lightgrey.svg)
 ![NativeScript](https://img.shields.io/badge/NativeScript-8.x-blue.svg)
 
-An advanced AI-powered assistant for MOBA game players that provides real-time analysis, strategic guidance, and performance optimization through machine learning.
+An advanced AI-powered assistant for Mobile Legends: Bang Bang players that provides real-time analysis, strategic guidance, and performance optimization through machine learning.
 
 ## ✨ Features
 
